@@ -138,7 +138,7 @@ Ensuring Ethical Standards in Software Engineering:
 5. Professional Associations: Join professional associations, such as the Association for Computing Machinery (ACM) or the Institute of Electrical and Electronics Engineers (IEEE), which provide resources and guidance on ethical issues in software engineering.
 6. Client and Employer Communication: Communicate openly and honestly with clients and employers about ethical concerns and potential conflicts of interest.
 7. Self-Regulation: Regularly reflect on your own values and ethics, and be willing to make difficult decisions that align with your personal and professional values.
-8. Continuous Learning: Stay up-to-date with industry trends, best practices, and emerging ethical issues in software engineering.
+8. gContinuous Learning: Stay up-to-date with industry trends, best practices, and emerging ethical issues in software engineering.
 
 Submission Guidelines:
 Your answers should be well-structured, concise, and to the point.
